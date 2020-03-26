@@ -1,0 +1,30 @@
+/**
+ * Rota / Recursos
+ */
+
+ /**
+  * Metodos HTTP
+  * 
+  * GET: buscar/listar uma informação do backend
+  * POST: criar uma informação no backend
+  * PUT: alterar uma informação no back end
+  * DELETE: deletar uma informação no backend
+  */
+
+/**
+ * tipos de parâmetors:
+ * 
+ * Query Params: Parâmetros nomeados enviados na rota após o "?" (filtros, paginação)
+ * Route Params: Parâmetros utilizados para identificar recursos
+ * Request Body: Corpo da requisição, utilizando para criar ou alterar recursos
+ */
+
+ /**
+  * SQL: MySQL, SQLite, PostgreSQL, Oracle, Microsoft SQL Server
+  * NoSQL: MongoDB, CouchDB
+  */
+
+  /**
+   * Driver: SELECT * FROM users
+   * Query Builder: table('users').select ('*').where()
+   */
